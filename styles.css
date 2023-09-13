@@ -1,5 +1,14 @@
 
 /* Your CSS Code here. */
-label{
-	
+#name{
+	margin-left:60px;
+}
+#portfolio{
+	margin-left:42px;
+}
+#favColor{
+	margin-left:5px;
+}
+#likeness{
+	margin-left:42px;
 }
